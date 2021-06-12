@@ -9,7 +9,7 @@ First you have to install the `requirements.txt`, you do this by running this co
 pip install -r requirements.txt
 ```
 ### Step 2
-Now you have to install the Python module `maxembeds`, if you don't want to do this, you can also drag the file` MaxEmbeds.py` into your folder where your bot is programmed.
+Now you have to install the Python module `maxembeds`, if you don't want to do this, you can also drag the file `MaxEmbeds.py` into your folder where your bot is programmed.
 ```
 pip install maxembeds
 ```
