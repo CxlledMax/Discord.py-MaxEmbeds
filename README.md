@@ -52,5 +52,5 @@ async def on_message(message):
 
 ## Links
 PyPi-Profile: https://pypi.org/user/MaxiPy/ <br>
-PyPi-Project: https://pypi.org/project/maxembdes/ <br>
+PyPi-Project: https://pypi.org/project/maxembeds/ <br>
 Support-Discord: https://discord.fastcord.de/ <br>
