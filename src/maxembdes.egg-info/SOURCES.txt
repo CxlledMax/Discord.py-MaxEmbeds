@@ -1,0 +1,6 @@
+setup.py
+src/MaxEmbeds.py
+src/maxembdes.egg-info/PKG-INFO
+src/maxembdes.egg-info/SOURCES.txt
+src/maxembdes.egg-info/dependency_links.txt
+src/maxembdes.egg-info/top_level.txt
