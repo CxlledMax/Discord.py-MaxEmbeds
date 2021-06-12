@@ -51,6 +51,6 @@ async def on_message(message):
 **Tip:** A field always consists of three parts: the name, the value and the inline information. So `field[0]` is the name, `field[1]` the value and `field[2]` the inline specification.
 
 ## Links
-PyPi-Profile: https://pypi.org/user/MaxiPy/
-PyPi-Project: https://pypi.org/project/maxembdes/
-Support-Discord: https://discord.fastcord.de/
+PyPi-Profile: https://pypi.org/user/MaxiPy/ <br>
+PyPi-Project: https://pypi.org/project/maxembdes/ <br>
+Support-Discord: https://discord.fastcord.de/ <br>
