@@ -28,7 +28,7 @@ There are the following parameters you can use to build your embed:
 Here would be an example to build and send an embed with all parameters:
 ```py
 import discord
-from maxembeds import EmbedBuilder
+from MaxEmbdes import EmbedBuilder
 
 client = discord.Client()
 
