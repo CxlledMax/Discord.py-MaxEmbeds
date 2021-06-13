@@ -1,4 +1,6 @@
-# Discord.py-MaxEmbeds
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+# Discord.py-MaxEmbeds [![forthebadge made-with-python]
 An EmbedBuilder for Discord bots in Python. You need discord.py to use this module.
 
 ## Installation
