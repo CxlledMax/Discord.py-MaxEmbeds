@@ -1,5 +1,3 @@
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
 # Discord.py-MaxEmbeds
 An EmbedBuilder for Discord bots in Python. You need discord.py to use this module.
 
@@ -56,3 +54,5 @@ async def on_message(message):
 PyPi-Profile: https://pypi.org/user/MaxiPy/ <br>
 PyPi-Project: https://pypi.org/project/maxembeds/ <br>
 Support-Discord: https://discord.fastcord.de/ <br>
+<hr>
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
