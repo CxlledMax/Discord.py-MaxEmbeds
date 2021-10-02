@@ -56,4 +56,4 @@ PyPi-Profile: https://pypi.org/user/MaxiPy/ <br>
 PyPi-Project: https://pypi.org/project/maxembeds/ <br>
 Support-Discord: https://discord.fastcord.de/ <br>
 
-[![Discord](https://img.shields.io/discord/839563450752958484.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/N2ejzCEeXv) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/IncredibleDesign/Discord.py-MaxEmbeds/blob/main/LICENSE)
+license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/IncredibleDesign/Discord.py-MaxEmbeds/blob/main/LICENSE)
